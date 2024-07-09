@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+## A simple introduction of this organization
 
 <!--
 
