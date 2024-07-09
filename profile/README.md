@@ -16,4 +16,6 @@
 
 MiriaHex is a team that "we" are just starting out and opening up to the public. Before that, we were just a small group of people working on some interesting stuff!
 
+Strictly speaking, there are only 2 of us.
+
 This document is also available in [Simplified Chinese.](README_zh-cn.md)
