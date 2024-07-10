@@ -1,3 +1,3 @@
 # .github repo
 
-this is a special repo.
+This is a special repo.

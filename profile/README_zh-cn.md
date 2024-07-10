@@ -1,4 +1,4 @@
-# Hi there 👋
+# 嗨 你好！ 👋
 
 这份文档也有 [英语版本](README.md "README in English")
 
@@ -16,7 +16,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-MiriaHex 是一个“我们”刚刚起步对外开放的团队。在此之前，我们仅仅是一个小团体，一起研究一些有趣的东西
+MiriaHex 是一个“我们”刚刚起步对外开放的团队。在此之前，我们仅仅是一个小团体，一起研究一些有趣的东西。
 
-严格意义上来计算，我们仅有2人而已。
+## 我们的其他项目
 
+根据我们当前的规划，我们的其他项目团队暂时不会对外公开。或是这些项目还不够“完美”；或是些项目面向我们组织自身...但当时机成熟时，我们会考虑对外公开。
+
+---
+
+就是这样，希望你玩的开心
