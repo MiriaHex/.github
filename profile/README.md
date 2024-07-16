@@ -25,4 +25,4 @@ Based on our current plans, our other project teams are not publicly available a
 
 ---
 
-That's it. I hope you'll have a good time.
+That's it. We hope you'll have a good time.
